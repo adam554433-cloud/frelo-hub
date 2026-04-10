@@ -50,9 +50,17 @@ export const apps: AppCard[] = [
     icon: "LayoutTemplate",
   },
   {
+    id: "intelligence",
+    name: "Intelligence",
+    tagline: "Brand brain — ask anything, test hypotheses, discover avatars",
+    url: "https://frelo-intelligence.vercel.app",
+    status: "beta",
+    icon: "Brain",
+  },
+  {
     id: "research-hub",
     name: "Research Hub",
-    tagline: "Market research, competitor & trend analysis",
+    tagline: "Legacy market research tool (being replaced by Intelligence)",
     url: "https://frelo-research-hub-adam554433-5422s-projects.vercel.app",
     status: "beta",
     icon: "Microscope",
