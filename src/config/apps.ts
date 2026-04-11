@@ -28,10 +28,10 @@ export const apps: AppCard[] = [
   {
     id: "influencer-hub",
     name: "Influencer Hub",
-    tagline: "Creator community & campaign management",
-    url: "https://frelo-influencer-hub.vercel.app",
+    tagline: "Creator roster + avatar matching + campaign briefs",
+    url: "https://frelo-influencer-hub-next.vercel.app",
     status: "live",
-    icon: "Users",
+    icon: "Megaphone",
   },
   {
     id: "customer-success",
@@ -54,16 +54,8 @@ export const apps: AppCard[] = [
     name: "Intelligence",
     tagline: "Brand brain — ask anything, test hypotheses, discover avatars",
     url: "https://frelo-intelligence.vercel.app",
-    status: "beta",
+    status: "live",
     icon: "Brain",
-  },
-  {
-    id: "research-hub",
-    name: "Research Hub",
-    tagline: "Legacy market research tool (being replaced by Intelligence)",
-    url: "https://frelo-research-hub-adam554433-5422s-projects.vercel.app",
-    status: "beta",
-    icon: "Microscope",
   },
 ];
 
