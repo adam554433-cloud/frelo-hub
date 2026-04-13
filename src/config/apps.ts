@@ -57,6 +57,14 @@ export const apps: AppCard[] = [
     status: "live",
     icon: "Brain",
   },
+  {
+    id: "copywriting-studio",
+    name: "Copywriting Studio",
+    tagline: "Ad analysis, psychology breakdown & script generation",
+    url: "https://frelo-copywriting-studio.vercel.app",
+    status: "beta",
+    icon: "PenTool",
+  },
 ];
 
 export const comingSoon: AppCard[] = [
