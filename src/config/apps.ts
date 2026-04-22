@@ -65,6 +65,22 @@ export const apps: AppCard[] = [
     status: "beta",
     icon: "PenTool",
   },
+  {
+    id: "legal-hub",
+    name: "Legal Hub",
+    tagline: "Agreement creation, NDA signing & audit trail",
+    url: "https://frelo-legal-hub.vercel.app",
+    status: "live",
+    icon: "Scale",
+  },
+  {
+    id: "research-hub",
+    name: "Research Hub",
+    tagline: "Social scraping, analysis & report generation",
+    url: "https://frelo-research-hub.vercel.app",
+    status: "beta",
+    icon: "SearchCheck",
+  },
 ];
 
 export const comingSoon: AppCard[] = [
